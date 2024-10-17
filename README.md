@@ -11,5 +11,9 @@ SoinHealth empowers women across Africa with access to vital health education, c
 - **Pro users** unlock premium resources, and **Business users** receive expert-led webinars and workshops.
 ### 2. **Tokenized Community Engagement**  
 - Participate in forums and challenges to earn health tokens.  
-- **Pro** and **Business users** enjoy exclusive access to premium and VIP community discussions.    
+- **Pro** and **Business users** enjoy exclusive access to premium and VIP community discussions. 
+### 3. **Expert-Led Health Resource Library**  
+- **Free users** access curated articles and videos.  
+- **Pro users** unlock advanced guides and health toolkits.  
+- **Business users** benefit from personalized health plans and access to in-depth research.     
 
