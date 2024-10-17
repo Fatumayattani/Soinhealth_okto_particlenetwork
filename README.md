@@ -37,6 +37,11 @@ SoinHealth empowers women across Africa with access to vital health education, c
    - Connect with other users in general support groups or participate in specialized groups led by certified coaches.
 4. **Join Community Forums**  
    - Share experiences and insights, earning health tokens as rewards for your participation.
-**Take Part in Wellness Challenges**  
-   - Join challenges that promote better health and earn tokens for your achievements.  
+5. **Take Part in Wellness Challenges**  
+   - Join challenges that promote better health and earn tokens for your achievements.
+6. **Contribute to Social Impact Initiatives**  
+   - Every interaction helps fund programs that distribute free sanitary towels and deliver reproductive health education across African communities.  
+
+---   
+
 
