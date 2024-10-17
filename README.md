@@ -15,5 +15,9 @@ SoinHealth empowers women across Africa with access to vital health education, c
 ### 3. **Expert-Led Health Resource Library**  
 - **Free users** access curated articles and videos.  
 - **Pro users** unlock advanced guides and health toolkits.  
-- **Business users** benefit from personalized health plans and access to in-depth research.     
+- **Business users** benefit from personalized health plans and access to in-depth research.
+### 4. **Personalized Support Groups**  
+- Join free, open support groups for general health topics.  
+- **Pro users** engage with certified coaches in focused support groups.  
+- **Business users** access expert-led coaching sessions and consultations.     
 
