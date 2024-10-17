@@ -28,4 +28,7 @@ SoinHealth empowers women across Africa with access to vital health education, c
 - Redeem tokens for access to premium features or subscription discounts.
 
 ---
+## 🔄 Workflow  
+1. **Create Your Account**  
+   - Sign up for free and set up your personal health profile for tailored content and resources.  
 
