@@ -8,5 +8,8 @@ SoinHealth empowers women across Africa with access to vital health education, c
 ## 🌟 Features  
 ### 1. **Women’s Health Focus First**  
 - Access curated content tailored to African women’s health and wellness needs.  
-- **Pro users** unlock premium resources, and **Business users** receive expert-led webinars and workshops.  
+- **Pro users** unlock premium resources, and **Business users** receive expert-led webinars and workshops.
+### 2. **Tokenized Community Engagement**  
+- Participate in forums and challenges to earn health tokens.  
+- **Pro** and **Business users** enjoy exclusive access to premium and VIP community discussions.    
 
