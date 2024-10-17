@@ -32,5 +32,7 @@ SoinHealth empowers women across Africa with access to vital health education, c
 1. **Create Your Account**  
    - Sign up for free and set up your personal health profile for tailored content and resources. 
 2. **Explore the Educational Hub**  
-   - Discover articles and videos on women’s health, with Pro and Business users accessing exclusive materials.   
+   - Discover articles and videos on women’s health, with Pro and Business users accessing exclusive materials.
+3. **Engage in Support Groups**  
+   - Connect with other users in general support groups or participate in specialized groups led by certified coaches.    
 
