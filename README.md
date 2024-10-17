@@ -22,5 +22,10 @@ SoinHealth empowers women across Africa with access to vital health education, c
 - **Business users** access expert-led coaching sessions and consultations.
 ### 5. **Free Sanitary Towels & Health Talks**  
 - Support social impact programs providing free sanitary products to girls in schools.  
-- Participate in reproductive health talks to raise awareness and promote well-being in underserved communities.   
+- Participate in reproductive health talks to raise awareness and promote well-being in underserved communities.
+### 6. **Health Tokens and Incentives**  
+- Earn tokens by engaging with content, forums, and challenges.  
+- Redeem tokens for access to premium features or subscription discounts.
+
+---
 
