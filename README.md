@@ -34,5 +34,7 @@ SoinHealth empowers women across Africa with access to vital health education, c
 2. **Explore the Educational Hub**  
    - Discover articles and videos on women’s health, with Pro and Business users accessing exclusive materials.
 3. **Engage in Support Groups**  
-   - Connect with other users in general support groups or participate in specialized groups led by certified coaches.    
+   - Connect with other users in general support groups or participate in specialized groups led by certified coaches.
+4. **Join Community Forums**  
+   - Share experiences and insights, earning health tokens as rewards for your participation.   
 
