@@ -61,5 +61,15 @@ React.js is a **JavaScript library** used to build interactive user interfaces. 
 - Ideal for dynamic user interfaces, especially in SPAs (Single Page Applications).
 
 ---
+### 2. Tailwind CSS – Utility-first CSS Framework  
+Tailwind CSS is a **utility-first CSS framework** that provides predefined classes to design UI elements directly in your HTML or JSX code.  
+
+**Why Tailwind CSS?**  
+- Rapid UI development with minimal custom CSS.  
+- Consistent styling with design tokens (colors, spacing, etc.).  
+- Easy customization using the `tailwind.config.js` file.  
+- Great for building responsive, mobile-friendly interfaces.
+
+---
 
 
