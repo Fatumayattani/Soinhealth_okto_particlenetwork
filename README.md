@@ -44,3 +44,8 @@ SoinHealth empowers women across Africa with access to vital health education, c
 
 ---
 
+## 🌐 Tech Stack Overview
+
+For this project, I’m using a combination of **React.js**, **Tailwind CSS**, and the **Livepeer API** to create a seamless, dynamic, and engaging user experience.  
+
+---
