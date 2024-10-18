@@ -58,5 +58,15 @@ React serves as the backbone of my frontend development. Its component-based arc
 - A vast ecosystem of libraries and tools for added functionality.
 
 ---
+### 2. Vite – Build Tool  
+I use Vite as my build tool for a fast and optimized development experience. Its lightning-fast hot module replacement (HMR) helps streamline the development process.
+
+**Why Vite?**  
+- Instant server start and hot module replacement for rapid development.  
+- Optimizes the build for production with tree-shaking and code splitting.  
+- Simple configuration and supports modern JavaScript features.  
+- Great integration with frameworks like React for improved performance.
+
+---
 
 
