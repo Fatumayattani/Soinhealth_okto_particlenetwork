@@ -33,7 +33,7 @@ const Navbar = () => {
               href="#"
               className="bg-gradient-to-r from-pink-500 to-purple-800 py-2 px-3 rounded-md"
             >
-              Contact
+              Connect Wallet
             </a>
           </div>
           <div className="lg:hidden md:flex flex-col justify-end">
