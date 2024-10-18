@@ -48,3 +48,13 @@ SoinHealth empowers women across Africa with access to vital health education, c
 This project leverages **React**, **Vite**, **Tailwind CSS**, **OKTO**, and **Particle Network** to create a secure, scalable, and responsive web application.
 
 ---
+### 1. React – Frontend Library  
+React serves as the backbone of my frontend development. Its component-based architecture allows for the creation of reusable UI elements, making the application easier to maintain and expand.
+
+**Why React?**  
+- Component-based structure for modular and reusable code.  
+- Virtual DOM ensures smooth rendering and fast performance.  
+- Ideal for building dynamic SPAs (Single Page Applications).  
+- A vast ecosystem of libraries and tools for added functionality.
+
+---
