@@ -59,7 +59,7 @@ const Navbar = () => {
                 href="#"
                 className="py-2 px-3 rounded-md bg-gradient-to-r from-pink-500 to-purple-800"
               >
-                Contact
+                Connect Wallet
               </a>
             </div>
           </div>
