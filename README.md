@@ -88,3 +88,13 @@ OKTO provides secure user authentication for my application, simplifying the log
 - Enhanced security features to protect user identities.
 
 ---
+### 5. Particle Network – Web3 Identity and Authentication Platform  
+Particle Network handles additional user authentication, focusing on a seamless onboarding experience into Web3 applications.
+
+**Why Particle Network?**  
+- **Multi-chain Support**: Operates across multiple blockchains for seamless interoperability.  
+- **Flexible Wallet Authentication**: Supports custodial wallets, non-custodial wallets, and social logins like Google or Apple.  
+- **Developer-friendly**: Offers SDKs and APIs for easy integration with React.  
+- **Secure and User-centric**: Protects user identity while providing a smooth, Web3-ready experience.
+
+---
