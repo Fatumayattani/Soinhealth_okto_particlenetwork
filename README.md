@@ -44,8 +44,3 @@ SoinHealth empowers women across Africa with access to vital health education, c
 
 ---
 
-## 🌐 Tech Stack Overview
-
-This project leverages **React.js**, **Tailwind CSS**, and **Particle Network** to create a secure, scalable, and responsive web application.
-
----
