@@ -71,5 +71,15 @@ Tailwind CSS is a **utility-first CSS framework** that provides predefined class
 - Great for building responsive, mobile-friendly interfaces.
 
 ---
+### 3. Livepeer API – Video Streaming Infrastructure  
+Livepeer is a **decentralized video streaming platform**. Its API provides easy access to video transcoding, streaming, and live broadcasting services for developers.  
+
+**Why Livepeer API?**  
+- High-quality video streaming with minimal latency.  
+- Scalable infrastructure for live streams and video-on-demand.  
+- Easy to integrate with React apps using REST API or SDKs.  
+- Cost-efficient video processing via a decentralized network.
+
+---
 
 
