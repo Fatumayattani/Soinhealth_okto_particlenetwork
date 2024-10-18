@@ -42,6 +42,14 @@ SoinHealth empowers women across Africa with access to vital health education, c
 6. **Contribute to Social Impact Initiatives**  
    - Every interaction helps fund programs that distribute free sanitary towels and deliver reproductive health education across African communities.  
 
----   
+---
+
+## 🌐 Tech Stack Overview
+
+1. **React.js**  
+2. **Tailwind CSS**  
+3. **Livepeer API**
+
+---
 
 
