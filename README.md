@@ -78,3 +78,13 @@ Tailwind CSS manages the styling, providing a set of utility classes that allow 
 - Fully responsive layouts that work across various devices.
 
 ---
+### 4. OKTO – User Authentication Platform  
+OKTO provides secure user authentication for my application, simplifying the login process and ensuring user data protection.
+
+**Why OKTO?**  
+- Streamlined authentication process for users.  
+- Supports various authentication methods including social logins.  
+- Easy integration with React applications.  
+- Enhanced security features to protect user identities.
+
+---
