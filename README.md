@@ -68,5 +68,15 @@ I use Vite as my build tool for a fast and optimized development experience. Its
 - Great integration with frameworks like React for improved performance.
 
 ---
+### 3. Tailwind CSS – Utility-first CSS Framework  
+Tailwind CSS manages the styling, providing a set of utility classes that allow for quick and efficient UI design.
+
+**Why Tailwind CSS?**  
+- Speeds up development with utility classes for styling.  
+- Ensures a consistent design across the application.  
+- Easily customizable through the `tailwind.config.js` file.  
+- Fully responsive layouts that work across various devices.
+
+---
 
 
