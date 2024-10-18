@@ -43,4 +43,9 @@ SoinHealth empowers women across Africa with access to vital health education, c
    - Every interaction helps fund programs that distribute free sanitary towels and deliver reproductive health education across African communities.  
 
 ---
+## 🌐 Tech Stack Overview
+
+This project leverages **React**, **Vite**, **Tailwind CSS**, and **Particle Network** to create a secure, scalable, and responsive web application.
+
+---
 
