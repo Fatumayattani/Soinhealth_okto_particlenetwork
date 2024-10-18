@@ -31,7 +31,7 @@ const Navbar = () => {
             </a>
             <a
               href="#"
-              className="bg-gradient-to-r from-pink-500 to-purple-800 py-2 px-3 rounded-md"
+              className="bg-gradient-to-r from-pink-500 to-purple-800 py-3 px-4 rounded-md"
             >
               Connect Wallet
             </a>
