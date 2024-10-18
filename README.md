@@ -51,5 +51,15 @@ SoinHealth empowers women across Africa with access to vital health education, c
 3. **Livepeer API**
 
 ---
+### 1. React.js – Frontend Framework  
+React.js is a **JavaScript library** used to build interactive user interfaces. It helps you break down the UI into reusable components, making your code modular, scalable, and easier to manage.  
+
+**Why React.js?**  
+- Component-based architecture for reusable UI elements.  
+- Virtual DOM ensures fast rendering and efficient performance.  
+- Strong ecosystem with libraries for routing, state management, and more.  
+- Ideal for dynamic user interfaces, especially in SPAs (Single Page Applications).
+
+---
 
 
